@@ -1,7 +1,7 @@
-# Simple-Snake-Game
+# Simple Snake Game
 A simple python snake game
 
-You can change the FPS(`fps`) and how often (fast) the snake moves`f = how many many frames pass in order for move to occur`
+You can change the FPS(`fps`) and how often (fast) the snake moves`**f** = how many many frames pass in order for move to occur`
 
 
 Requirements:
